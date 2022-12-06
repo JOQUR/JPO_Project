@@ -1,0 +1,9 @@
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/Experimental.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/Continuous.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/Nightly.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/JPO_Project.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/PACKAGE.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/PKier/OneDrive/Pulpit/JPO Projekt/JPO_Project/build/CMakeFiles/ZERO_CHECK.dir

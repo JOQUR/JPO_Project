@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\PKier\OneDrive\Pulpit\JPO Projekt\JPO_Project\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PKier\OneDrive\Pulpit\JPO Projekt\JPO_Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3D19A342-90AF-3669-927C-5B18D090B60B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
