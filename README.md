@@ -1,2 +1,5 @@
 # JPO_Project
-The target of this repo is to make an app which reads temperature using analogue temperature detector, sending it through arduino to PC, then save it in JSON/XML file. Sooner or later save it in database
+
+
+## How will it work?
+To read temperature I'll use Arduino UNO using LM35 Analog Temperature Sensor. Through serial wire I'll send this data to PC, which will save these data to a file, later on to DataBase.
